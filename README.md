@@ -1,9 +1,6 @@
-## Data Processing Framework
+## Data Ingestion
 
-**Start Kafaka and its Components**
+**Use Docker for Kafka and Zookeeper**
 
-* Start Zookeeper server
-	> bin/zookeeper-server-start.sh config/zookeeper.properties
-	
-*  Start Kafka server
-	> bin/kafka-server-start.sh config/server.properties
+**TODO**
+* Add app jar to docker
